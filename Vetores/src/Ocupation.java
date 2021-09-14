@@ -9,6 +9,7 @@ public class Ocupation {
 
         Room[] room = new Room[10];
 
+
         System.out.print("How many rooms wil be rented? ");
         int n = scan.nextInt();
 
