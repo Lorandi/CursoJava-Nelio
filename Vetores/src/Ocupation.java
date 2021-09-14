@@ -7,9 +7,11 @@ public class Ocupation {
 
         Scanner scan = new Scanner(System.in);
 
+        Room[] room = new Room[10];
+
+        System.out.print("How many rooms wil be rented? ");
         int n = scan.nextInt();
 
-        Room[] room = new Room[10];
 
         for (int i = 0; i < n; i++) {
             System.out.println("Rent #" + (i + 1) + ":");
