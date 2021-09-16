@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/BoxingWrapper/BoxingWrapper.iml" filepath="$PROJECT_DIR$/10eAnteriores/BoxingWrapper/BoxingWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/10eAnteriores/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/CurrencyConverter/CurrencyConverter.iml" filepath="$PROJECT_DIR$/10eAnteriores/CurrencyConverter/CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CursoJava-Nelio.iml" filepath="$PROJECT_DIR$/.idea/CursoJava-Nelio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/Matrizes/Exercicio/Exercicio.iml" filepath="$PROJECT_DIR$/10eAnteriores/Matrizes/Exercicio/Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/10eAnteriores/ForEach/ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/ListaFuncionarios/ListaFuncionarios.iml" filepath="$PROJECT_DIR$/10eAnteriores/ListaFuncionarios/ListaFuncionarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/Listas/Listas.iml" filepath="$PROJECT_DIR$/10eAnteriores/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/10eAnteriores/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/10eAnteriores/Vetores/Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/estaticos/estaticos.iml" filepath="$PROJECT_DIR$/10eAnteriores/estaticos/estaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/estoque/estoque.iml" filepath="$PROJECT_DIR$/10eAnteriores/estoque/estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/10eAnteriores/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/strings/strings.iml" filepath="$PROJECT_DIR$/10eAnteriores/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10eAnteriores/triangulo/triangulo.iml" filepath="$PROJECT_DIR$/10eAnteriores/triangulo/triangulo.iml" />
+    </modules>
+  </component>
+</project>
