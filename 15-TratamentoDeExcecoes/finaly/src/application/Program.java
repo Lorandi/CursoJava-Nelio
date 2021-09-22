@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) {
-        File file = new File("C:\\CursoJava-Nelio\\15-TratamentoDeExcecoes\\finaly\\temp\\in.txt");
+        File file = new File("C:\\CursoJava-Nelio\\5-TratamentoDeExcecoes\\finaly\\temp/in.txt");
         Scanner sc = null;
         try {
             sc = new Scanner(file);
